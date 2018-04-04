@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIM5300
+D 3G modem
+K 3g modem
+$ENDCMP
+#
+$CMP STM32F437V
+D STM32F437/439 ARM Cortex M4 Microcontroller, 100 pin TQFP
+$ENDCMP
+#
+$CMP TCA8418
+D I2C GPIO expander and keypad scanner
+K GPIO keypad i2c
+F http://www.ti.com/lit/ds/symlink/tca8418.pdf
+$ENDCMP
+#
+#End Doc Library
