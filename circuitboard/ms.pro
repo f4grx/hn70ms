@@ -1,4 +1,4 @@
-update=mer. 04 avril 2018 09:08:50 CEST
+update=mer. 04 avril 2018 23:37:41 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -36,3 +36,13 @@ LibName4=f4grx_conn
 LibName5=f4grx_cpu
 LibName6=f4grx_interface
 LibName7=f4grx_rf
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=.
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=45
